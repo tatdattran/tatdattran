@@ -45,18 +45,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏦 Credit Risk Prediction
-- Built ML model predicting loan default
-- Improved accuracy by 15%
-- Deployed using FastAPI + Docker
-
-### 🧠 NLP Sentiment Analysis
-- Fine-tuned BERT for Vietnamese sentiment classification
-- Achieved 92% F1-score
-
-### 📊 Sales Forecasting Dashboard
-- Time series forecasting with Prophet
-- Visualization using Streamlit
+See my recent portfolio for more details: https://github.com/tatdattran/ml-engineer-portfolio
 
 ---
 
