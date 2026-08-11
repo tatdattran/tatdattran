@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Projects
 
-See my recent portfolio for more details: https://github.com/tatdattran/ml-engineer-portfolio
+See my projects for more details: https://github.com/tatdattran?tab=repositories
 
 ---
 
