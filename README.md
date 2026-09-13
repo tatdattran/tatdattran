@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dat</h1>
-<h3 align="center">Mathematician | Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
+<h3 align="center">Mathematician | Machine Learning Engineer | Applied AI | Data Science</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dr-tat-dat-tran-29a244a5/">
